@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab3dea5d-ac45-40d1-b3ca-9d88a5b5496a" name="Default" comment="" />
+    <ignored path="wp-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wp-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="19" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="2210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/custom_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="42" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-20.26923" vertical-offset="340" max-vertical-offset="986">
+              <folding>
+                <marker date="1409054489080" expanded="true" signature="951:1025" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ws-pagination.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/ws-pagination.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="0" selection-start="791" selection-end="791" vertical-scroll-proportion="-14.384615" vertical-offset="153" max-vertical-offset="1819">
+              <folding>
+                <element signature="e#6#120#0" expanded="true" />
+                <marker date="1409059556371" expanded="true" signature="1339:2371" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="1448:1517" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="1549:1605" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="1725:1900" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="1835:1886" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="2030:2067" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="2192:2261" placeholder="..." />
+                <marker date="1409059556371" expanded="true" signature="2293:2345" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="5.230769" vertical-offset="170" max-vertical-offset="1513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar-homeleft.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/sidebar-homeleft.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="49" selection-end="144" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="289">
+              <folding>
+                <marker date="1408020382318" expanded="true" signature="102:208" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_subpage.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/basic_subpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="53" selection-start="868" selection-end="868" vertical-scroll-proportion="0.1296" vertical-offset="599" max-vertical-offset="1275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource_page.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/resource_page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="37" selection-start="1796" selection-end="1796" vertical-scroll-proportion="-8.346154" vertical-offset="990" max-vertical-offset="1615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/single-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="60" selection-start="1323" selection-end="1323" vertical-scroll-proportion="16.26923" vertical-offset="1171" max-vertical-offset="3009">
+              <folding>
+                <element signature="e#2551#2617#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start_list-slider.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/start_list-slider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="25" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/first/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="37" selection-start="1390" selection-end="1390" vertical-scroll-proportion="-7.8461537" vertical-offset="663" max-vertical-offset="2108">
+              <folding>
+                <element signature="e#6#42#0" expanded="true" />
+                <marker date="1409060390231" expanded="true" signature="2973:2997" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/first/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/reset.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/sidebar-homeleft.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic_subpage.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_listslider.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_panel-accortion.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_panel-accordion.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/accordion.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/sidebar-pageright.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/product-categories.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/woocommerce/templates/archive-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/woocommerce/templates/taxonomy-product_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/product_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/review.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_product-accordion.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_shadowbox.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/product-thumbnails.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/product-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/sidebar-productright.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/resource_page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/searchpage.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/single-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/basic_subpage.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/pagination.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/custom_functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/ws-pagination.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/taxonomy-product_cat.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/cutom_widgets.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/js/start_list-slider.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/first/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistory" value="&#10;field" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\woocommerce\templates" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\css" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\fonts" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\img" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\js" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\woocommerce\templates" />
+      <recent name="D:\OpenServer\domains\localhost\wp-test\wp-content\themes\first\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.functions.php">
+    <configuration default="false" name="functions.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/wp-test/wp-content/themes/first/functions.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.functions.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.functions.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3dea5d-ac45-40d1-b3ca-9d88a5b5496a" name="Default" comment="" />
+      <created>1407518430005</created>
+      <updated>1407518430005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21601209" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="1" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8668" column="20" selection-start="200230" selection-end="200230" vertical-scroll-proportion="0.0" vertical-offset="147122" max-vertical-offset="147849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/accordion.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/shadowbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="29" selection-start="2244" selection-end="2244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="76" selection-start="3409" selection-end="3409" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="3451">
+          <folding>
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="92" selection-start="5403" selection-end="5403" vertical-scroll-proportion="0.0" vertical-offset="4052" max-vertical-offset="6953" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="45" selection-start="132" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/nav-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="20" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="15266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="1" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8668" column="20" selection-start="200230" selection-end="200230" vertical-scroll-proportion="0.0" vertical-offset="147122" max-vertical-offset="147849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/accordion.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/shadowbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="16" selection-start="3559" selection-end="3559" vertical-scroll-proportion="0.0" vertical-offset="1435" max-vertical-offset="2023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="170" column="34" selection-start="8258" selection-end="8258" vertical-scroll-proportion="0.0" vertical-offset="2715" max-vertical-offset="3264">
+          <folding>
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/nav-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="20" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="15266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="1" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/css/shadowbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/accordion.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3739" column="13" selection-start="101780" selection-end="101780" vertical-scroll-proportion="271.0" vertical-offset="70439" max-vertical-offset="74630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/taxonomy-product_tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="24" selection-start="3046" selection-end="3046" vertical-scroll-proportion="0.5752961" vertical-offset="1938" max-vertical-offset="14484" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="9" selection-start="4534" selection-end="4534" vertical-scroll-proportion="0.014705882" vertical-offset="1946" max-vertical-offset="18088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/start_panel-accordion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-0.7258883" vertical-offset="497" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="235" selection-end="235" vertical-scroll-proportion="-0.3169399" vertical-offset="191" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/sidebar-pageright.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="43" selection-start="94" selection-end="94" vertical-scroll-proportion="0.1457976" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.05752961" vertical-offset="0" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3222749" vertical-offset="204" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/start_product-accordion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/start_shadowbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="286" selection-end="286" vertical-scroll-proportion="0.2176" vertical-offset="0" max-vertical-offset="625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-product-categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4148">
+          <folding>
+            <marker date="1408307789111" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408307789111" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1408307789111" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1408307789111" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1408307789111" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8677" column="0" selection-start="187659" selection-end="187667" vertical-scroll-proportion="0.0" vertical-offset="147339" max-vertical-offset="149889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/taxonomy-product_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="25" selection-start="5805" selection-end="5805" vertical-scroll-proportion="-9.153846" vertical-offset="2295" max-vertical-offset="3281">
+          <folding>
+            <marker date="1409060314658" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="6" selection-start="723" selection-end="723" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="25636">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/custom_widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="39" selection-start="6159" selection-end="6159" vertical-scroll-proportion="-20.923077" vertical-offset="2924" max-vertical-offset="3570">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409061598956" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/sidebar-productright.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="48" selection-start="163" selection-end="187" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="202" column="0" selection-start="6578" selection-end="6578" vertical-scroll-proportion="-128.15384" vertical-offset="102" max-vertical-offset="3859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="74" selection-start="368" selection-end="368" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="15" selection-start="4883" selection-end="4883" vertical-scroll-proportion="0.3970346" vertical-offset="1612" max-vertical-offset="3502">
+          <folding>
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409085633477" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="19" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/js/start_list-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="37" selection-start="1390" selection-end="1390" vertical-scroll-proportion="-7.8461537" vertical-offset="663" max-vertical-offset="2108">
+          <folding>
+            <element signature="e#6#42#0" expanded="true" />
+            <marker date="1409060390231" expanded="true" signature="2973:2997" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/custom_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="42" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-20.26923" vertical-offset="340" max-vertical-offset="986">
+          <folding>
+            <marker date="1409054489080" expanded="true" signature="951:1025" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/ws-pagination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="791" selection-end="791" vertical-scroll-proportion="-14.384615" vertical-offset="153" max-vertical-offset="1819">
+          <folding>
+            <element signature="e#6#120#0" expanded="true" />
+            <marker date="1409059556371" expanded="true" signature="1339:2371" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="1448:1517" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="1549:1605" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="1725:1900" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="1835:1886" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="2030:2067" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="2192:2261" placeholder="..." />
+            <marker date="1409059556371" expanded="true" signature="2293:2345" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/resource_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="37" selection-start="1796" selection-end="1796" vertical-scroll-proportion="-8.346154" vertical-offset="990" max-vertical-offset="1615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/archive-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="5.230769" vertical-offset="170" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/sidebar-homeleft.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="49" selection-end="144" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="289">
+          <folding>
+            <marker date="1408020382318" expanded="true" signature="102:208" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="60" selection-start="1323" selection-end="1323" vertical-scroll-proportion="16.26923" vertical-offset="1171" max-vertical-offset="3009">
+          <folding>
+            <element signature="e#2551#2617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/first/basic_subpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="53" selection-start="868" selection-end="868" vertical-scroll-proportion="0.1296" vertical-offset="599" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
