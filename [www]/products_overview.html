@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Products overview</title>
+        <meta charset="utf-8">
+        
+        <!-- reset the styles -->
+        <link rel="stylesheet" href="reset.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="styles.css">
+        
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!--[if lt IE 9]>
+           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+           <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        
+        <div class="container">
+            <header id="header">
+
+                <!-- DESKTOP VERSION -->
+
+                <div class="row visible-md visible-lg">
+                    <!-- logo -->
+                    <div class="col-logo col-md-5"><a href="#"><img src="img/logo.png" alt="wholesale logo"></a></div>
+
+                    <!-- toolbar & navbar -->
+                    <div class="col-md-19">
+
+                        <!-- toolbar -->
+                        <div class="row">
+                            <div class="col-toolbar col-md-21 col-lg-18 pull-right">
+
+                                <div class="col-toolbar-back">
+                                    <div class="call-col col-md-10">Give us a call: <strong>804-798-8011</strong></div>
+
+                                    <!-- search form -->
+                                    <div class="form-search col-md-14 pull-right">
+                                        <form action="" name="search" method="get" class="form" role="search">
+                                            <div class="form-group">
+                                                <label class="sr-only" for="search-input-mob">Search Our Site</label>
+                                                <div class="input-group">
+                                                        <span class="input-group-addon">
+                                                            <img src="img/header-search.png" alt="search icon">
+                                                        </span>
+                                                    <input type="search" id="search-input-mob" class="form-control" placeholder="Search Our Site">
+                                                        <span class="input-group-btn">
+                                                            <button type="button" class="btn btn-search text-uppercase">
+                                                                go
+                                                            </button>
+                                                        </span>
+                                                </div><!--/. input group -->
+                                            </div>
+                                        </form>
+                                    </div><!--/. search form -->
+                                </div>
+
+                            </div>
+                        </div><!--/. toolbar -->
+
+
+                        <div class="row">
+
+                            <!-- navbar -->
+                            <div class="col-md-18 col-lg-19">
+                                <nav class="navbar navbar-default navbar-main" role="navigation">
+                                    <div class="container-fluid">
+                                        <!-- Collect the nav links, forms, and other content for toggling -->
+                                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                            <ul class="nav navbar-nav navbar-right">
+                                                <li><a href="#">Home</a></li>
+                                                <li><a href="#">About Us</a></li>
+                                                <li><a href="#">Resources</a></li>
+                                                <li><a href="#">Pool Code</a></li>
+                                                <li><a href="#">Contact Us</a></li>
+                                            </ul>
+                                        </div><!-- /.navbar-collapse -->
+                                    </div><!-- /.container-fluid -->
+                                </nav>
+                            </div><!--/. navbar -->
+
+                            <!-- browse button -->
+                            <div class="col-browse col-md-6 col-lg-5">
+                                <a href="#" class="btn-group browse-group">
+                                    <span class="btn btn-browse">Browse Products</span>
+                                    <span class="btn arrow-addon"><img src="img/btn-right-arrow.png" alt="Button arrow"></span>
+                                </a>
+                            </div><!--/. browse button -->
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- /. DESKTOP VERSION -->
+
+                <!-- MOBILE VERSION -->
+
+                <div class="visible-xs visible-sm">
+
+                    <!-- navbar -->
+                    <div class="col-xs-4 col-sm-5 navbar-mobile-col">
+                        <nav class="navbar navbar-default navbar-main" role="navigation">
+                            <!--<div class="container-fluid">-->
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header visible-xs visible-sm pull-left">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse-nav-links">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand visible-sm" href="#">Menu</a>
+                            </div>
+
+                        </nav>
+                    </div><!--/. navbar -->
+
+                    <!-- toolbar -->
+                    <div class="col-toolbar col-xs-16 col-sm-19 toolbar-mobile-col">
+
+                        <div class="col-toolbar-back">
+                            <div class="hidden-xs call-col col-sm-11">Give us a call: <strong>804-798-8011</strong></div>
+
+                            <!-- search form -->
+                            <div class="form-search col-xs-24 col-sm-13 pull-right">
+                                <form action="" name="search" method="get" class="form" role="search">
+                                    <div class="form-group">
+                                        <label class="sr-only" for="search-input">Search Our Site</label>
+                                        <div class="input-group">
+                                                    <span class="input-group-addon">
+                                                        <img src="img/header-search.png" alt="search icon">
+                                                    </span>
+                                            <input type="search" id="search-input" class="form-control" placeholder="Search Our Site">
+                                                    <span class="input-group-btn">
+                                                        <button type="button" class="btn btn-search text-uppercase">
+                                                            go
+                                                        </button>
+                                                    </span>
+                                        </div><!--/. input group -->
+                                    </div>
+                                </form>
+                            </div><!--/. search form -->
+                        </div>
+
+                    </div><!--/. toolbar -->
+
+                    <button class="col-xs-4 visible-xs btn btn-call">
+                        <img src="img/call-tube.png" alt=""/>
+                    </button>
+
+                    <div class="clearfix"></div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="collapse-nav-links">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+
+                    <div class="clearfix"></div>
+
+                    <!-- logo -->
+                    <div class="col-logo">
+                        <a href="#"><img src="img/logo.png" alt="wholesale logo"></a>
+                    </div><!--/. logo -->
+
+                    <!-- browse button -->
+                    <div class="hidden-xs col-browse col-sm-9 col-sm-push-3">
+                        <a href="#" class="btn-group browse-group">
+                            <span class="btn btn-browse">Browse Products</span>
+                            <span class="btn arrow-addon"><img src="img/btn-right-arrow.png" alt="Button arrow"></span>
+                        </a>
+                    </div><!--/. browse button -->
+
+                </div>
+
+                <!-- /. MOBILE VERSION -->
+
+            </header>
+
+
+        <!-- left column -->
+            <div class="col-md-17 col-content">
+
+                <!-- page thumbnail -->
+                <div class="thumbnail thumbnail-page-name">
+                    <img src="img/slide1.jpg" alt=""/>
+                    <h2 class="caption">Residential Fence Products</h2>
+                </div> <!-- /. page thumbnail -->
+                
+                <!-- decription -->
+                <article class="cat-decription">
+                    <div class="category-text">
+                            <h1>Child Category</h1>
+                        <p>
+                            Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore
+                            magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
+                            ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                        </p>
+                    </div>
+                </article>
+                
+                <!-- products-->
+                <div class="products-row">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <a href="#" class="thumbnail">
+                            <img src="img/product.jpg" alt="">
+                            <div class="caption">
+                                <button type="button" class="btn btn-primary btn-block">Learn More</button>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div><!-- /. left column -->
+            
+            <!-- right-column -->
+            <aside class="col-md-7 right-column">
+
+                <!-- menu -->
+                <div class="panel accordion-panel">
+                    <div class="panel-heading">Aluminum Fences</div>
+                    <ul class="panel-body panel-accordion">
+
+                        <li class="item-header">Residential <span class="caret"></span></li>
+                        <li>
+                            <ul class="panel-accordion">
+                                <li class="item-header">Residential <span class="caret"></span></li>
+                                <li><a href="#" class="subitem">Some link</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="item-header">Commercial <span class="caret"></span></li>
+                        <li><a href="#" class="subitem">Some link</a></li>
+
+                        <li class="item-header">Concealed Fastener <span class="caret"></span></li>
+                        <li><a href="#" class="subitem">Some link</a></li>
+
+                        <li class="item-header">Post & Rail <span class="caret"></span></li>
+                        <li><a href="#" class="subitem">Some link</a></li>
+
+                        <li class="item-header">Accessories <span class="caret"></span></li>
+                        <!--                       <li><a href="#" class="subitem">Some link</a></li>-->
+                        <li>
+                            <ul class="panel-accordion">
+                                <li class="item-header">Residential <span class="caret"></span></li>
+                                <li>
+                                    <ul class="panel-accordion">
+                                        <li class="item-header">Residential <span class="caret"></span></li>
+                                        <li><a href="#" class="subitem">Some link</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- /. menu -->
+               
+               <!-- Quick Ship -->
+                <div class="panel about-aside-panel">
+                  <article class="panel-body">
+                    <header><h1>Quick Ship</h1></header>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                         euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                    </p>
+                  </article>
+                  <div class="panel-footer">
+                      <a href="#" class="btn btn-browse">Get Started <span class="link-arrow"></span></a>
+                  </div>
+                </div><!-- /. Quick Ship -->
+                
+            </aside><!-- /. right column -->
+            
+            <div class="clearfix"></div>
+
+            <!-- footer -->
+            <footer class="row">
+
+                <!-- navigation -->
+                <!-- DESKTOP,LAPTOP,TABLET VERSION -->
+
+                <nav class="hidden-xs nav navbar-inverse" id="footer-nav-laptop">
+
+                    <!-- nav links -->
+                    <div class="col-sm-15 col-md-17">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /. nav links -->
+
+                    <!-- search form -->
+                    <div class="form-search col-sm-9 col-md-7 pull-right">
+                        <form class="form" action="" name="search" method="get">
+                            <div class="form-group">
+                                <label class="sr-only" for="search-input-down">Search Our Site</label>
+                                <div class="input-group">
+                        <span class="input-group-addon">
+                            <img src="img/header-search.png" alt="search icon">
+                        </span>
+                                    <input type="search" id="search-input-down" class="form-control" placeholder="Search Our Site">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-search text-uppercase">
+                                go
+                            </button>
+                        </span>
+                                </div><!--/. input group -->
+                            </div>
+                        </form>
+                    </div><!--/. search form -->
+                </nav>
+                <!--/. DESKTOP,LAPTOP,TABLET VERSION -->
+                <!--/. navigation -->
+
+                <!-- navigation -->
+                <!-- MOBILE VERSION -->
+                <nav class="row visible-xs nav navbar-inverse" id="footer-nav-mobile">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse-nav-links-footer">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">Menu</a>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="collapse-nav-links-footer">
+
+                        <ul class="nav navbar-nav">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </nav>
+                <!--/. MOBILE VERSION -->
+                <!--/. navigation -->
+
+                <div class="footer-container">
+
+                    <div class="hidden-xs col-sm-17 col-md-10 col-lg-11 policy">
+                        <a href="#">Shipping Policy</a>
+                        <a href="#">Return Policy</a>
+                        <a href="#">Cancellation Policy</a>
+                        <a href="#">Privacy Policy</a>
+                    </div>
+
+                    <!-- mobile -->
+                    <small class="visible-xs-block text-center">
+                        &copy; Copyright 2014 Wholesale Aluminum Fence. All Rights Reserved
+                    </small>
+                    <!-- /. mobile -->
+
+                    <!-- /. desktop+ -->
+                    <div class="cards col-md-4 col-lg-push-1"><img src="img/cards.jpg" alt=""></div>
+                    <div class="clearfix visible-sm"></div>
+
+                    <small class="hidden-xs col-sm-24 col-md-8">
+                        &copy; Copyright 2014 Wholesale Aluminum Fence. All Rights Reserved
+                    </small>
+                    <!-- /. desktop+ -->
+                </div>
+
+            </footer><!-- /. footer -->
+
+        </div>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <script src="js/accordion.min.js"></script>
+        <script>
+            $(".panel-accordion" ).accordion({
+                collapseAll: true,
+                header: '.item-header'
+            });
+        </script>
+    </body>
+</html>

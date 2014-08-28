@@ -1,0 +1,89 @@
+//useful functions for improving developing
+
+.make-img-content(@corners_path) {
+    content: " ";
+    background: url("@{corners_path}") no-repeat;
+}
+
+//background
+.make-background(@back) when (iscolor(@back)) {
+    background-color: @back;
+}
+.make-background(@back) when (isurl(@back)) {
+    background-image: @back;
+}
+
+//border
+.make-border-vertical(@size; @type; @color) {
+    border-top: @size @type @color;
+    border-bottom: @size @type @color;
+}
+.make-border-vertical(@param) {
+    border-top: @param;
+    border-bottom: @param;
+}
+
+.make-border-horizontal(@size; @type; @color) {
+    border-left: @size @type @color;
+    border-right: @size @type @color;
+}
+.make-border-horizontal(@param) {
+    border-left: @param;
+    border-right: @param;
+}
+
+//padding
+.make-padding-vertical(@param) {
+    padding-top: @param;
+    padding-bottom: @param;
+}
+
+.make-padding-horizontal(@param) {
+    padding-left: @param;
+    padding-right: @param;
+}
+
+.make-padding-vertical(@top;@bottom) {
+    padding-top: @top;
+    padding-bottom: @bottom;
+}
+
+.make-padding-horizontal(@left;@right) {
+    padding-left: @left;
+    padding-right: @right;
+}
+
+//margin
+.make-margin-vertical(@param) {
+    margin-top: @param;
+    margin-bottom: @param;
+}
+
+.make-margin-horizontal(@param) {
+    margin-left: @param;
+    margin-right: @param;
+}
+
+.make-margin-vertical(@top; @bottom) {
+    margin-top: @top;
+    margin-bottom: @bottom;
+}
+
+.make-margin-horizontal(@left;@right) {
+    margin-left: @left;
+    margin-right: @right;
+}
+
+//for buttons
+.normalize-btn(@default-color; @default-bg) {
+    background-color: @default-bg;
+    color: @default-color;
+    outline: none !important;
+    box-shadow: none !important;
+    z-index: 0;
+    margin-left: 0px !important;
+
+    &:hover, &:focus, &:active {
+        color: @default-color !important;
+    }
+}

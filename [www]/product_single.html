@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Product Single</title>
+        <meta charset="utf-8">
+        
+        <!-- reset the styles -->
+        <link rel="stylesheet" href="reset.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="styles.css">
+        <!-- shadow box for images -->
+        <link rel="stylesheet" href="css/shadowbox.css"/>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!--[if lt IE 9]>
+           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+           <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        
+        <div class="container">
+            <header id="header">
+
+                <!-- DESKTOP VERSION -->
+
+                <div class="row visible-md visible-lg">
+                    <!-- logo -->
+                    <div class="col-logo col-md-5"><a href="#"><img src="img/logo.png" alt="wholesale logo"></a></div>
+
+                    <!-- toolbar & navbar -->
+                    <div class="col-md-19">
+
+                        <!-- toolbar -->
+                        <div class="row">
+                            <div class="col-toolbar col-md-21 col-lg-18 pull-right">
+
+                                <div class="col-toolbar-back">
+                                    <div class="call-col col-md-10">Give us a call: <strong>804-798-8011</strong></div>
+
+                                    <!-- search form -->
+                                    <div class="form-search col-md-14 pull-right">
+                                        <form action="" name="search" method="get" class="form" role="search">
+                                            <div class="form-group">
+                                                <label class="sr-only" for="search-input-mob">Search Our Site</label>
+                                                <div class="input-group">
+                                                        <span class="input-group-addon">
+                                                            <img src="img/header-search.png" alt="search icon">
+                                                        </span>
+                                                    <input type="search" id="search-input-mob" class="form-control" placeholder="Search Our Site">
+                                                        <span class="input-group-btn">
+                                                            <button type="button" class="btn btn-search text-uppercase">
+                                                                go
+                                                            </button>
+                                                        </span>
+                                                </div><!--/. input group -->
+                                            </div>
+                                        </form>
+                                    </div><!--/. search form -->
+                                </div>
+
+                            </div>
+                        </div><!--/. toolbar -->
+
+
+                        <div class="row">
+
+                            <!-- navbar -->
+                            <div class="col-md-18 col-lg-19">
+                                <nav class="navbar navbar-default navbar-main" role="navigation">
+                                    <div class="container-fluid">
+                                        <!-- Collect the nav links, forms, and other content for toggling -->
+                                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                            <ul class="nav navbar-nav navbar-right">
+                                                <li><a href="#">Home</a></li>
+                                                <li><a href="#">About Us</a></li>
+                                                <li><a href="#">Resources</a></li>
+                                                <li><a href="#">Pool Code</a></li>
+                                                <li><a href="#">Contact Us</a></li>
+                                            </ul>
+                                        </div><!-- /.navbar-collapse -->
+                                    </div><!-- /.container-fluid -->
+                                </nav>
+                            </div><!--/. navbar -->
+
+                            <!-- browse button -->
+                            <div class="col-browse col-md-6 col-lg-5">
+                                <a href="#" class="btn-group browse-group">
+                                    <span class="btn btn-browse">Browse Products</span>
+                                    <span class="btn arrow-addon"><img src="img/btn-right-arrow.png" alt="Button arrow"></span>
+                                </a>
+                            </div><!--/. browse button -->
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- /. DESKTOP VERSION -->
+
+                <!-- MOBILE VERSION -->
+
+                <div class="visible-xs visible-sm">
+
+                    <!-- navbar -->
+                    <div class="col-xs-4 col-sm-5 navbar-mobile-col">
+                        <nav class="navbar navbar-default navbar-main" role="navigation">
+                            <!--<div class="container-fluid">-->
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header visible-xs visible-sm pull-left">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse-nav-links">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand visible-sm" href="#">Menu</a>
+                            </div>
+
+                        </nav>
+                    </div><!--/. navbar -->
+
+                    <!-- toolbar -->
+                    <div class="col-toolbar col-xs-16 col-sm-19 toolbar-mobile-col">
+
+                        <div class="col-toolbar-back">
+                            <div class="hidden-xs call-col col-sm-11">Give us a call: <strong>804-798-8011</strong></div>
+
+                            <!-- search form -->
+                            <div class="form-search col-xs-24 col-sm-13 pull-right">
+                                <form action="" name="search" method="get" class="form" role="search">
+                                    <div class="form-group">
+                                        <label class="sr-only" for="search-input">Search Our Site</label>
+                                        <div class="input-group">
+                                                    <span class="input-group-addon">
+                                                        <img src="img/header-search.png" alt="search icon">
+                                                    </span>
+                                            <input type="search" id="search-input" class="form-control" placeholder="Search Our Site">
+                                                    <span class="input-group-btn">
+                                                        <button type="button" class="btn btn-search text-uppercase">
+                                                            go
+                                                        </button>
+                                                    </span>
+                                        </div><!--/. input group -->
+                                    </div>
+                                </form>
+                            </div><!--/. search form -->
+                        </div>
+
+                    </div><!--/. toolbar -->
+
+                    <button class="col-xs-4 visible-xs btn btn-call">
+                        <img src="img/call-tube.png" alt=""/>
+                    </button>
+
+                    <div class="clearfix"></div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="collapse-nav-links">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+
+                    <div class="clearfix"></div>
+
+                    <!-- logo -->
+                    <div class="col-logo">
+                        <a href="#"><img src="img/logo.png" alt="wholesale logo"></a>
+                    </div><!--/. logo -->
+
+                    <!-- browse button -->
+                    <div class="hidden-xs col-browse col-sm-9 col-sm-push-3">
+                        <a href="#" class="btn-group browse-group">
+                            <span class="btn btn-browse">Browse Products</span>
+                            <span class="btn arrow-addon"><img src="img/btn-right-arrow.png" alt="Button arrow"></span>
+                        </a>
+                    </div><!--/. browse button -->
+
+                </div>
+
+                <!-- /. MOBILE VERSION -->
+
+            </header>
+
+
+        <!-- left column -->
+            <div class="col-md-17 col-content">
+                
+                <!-- decription -->
+                <article class="cat-decription">
+                  
+                   <!-- sub product header -->
+                   <header class="row product-header">
+                       <div class="col-xs-19 col-sm-8 col-lg-7">
+                           <img src="img/featured-image.png" alt="">
+                       </div>
+                       <div class="col-xs-5 col-sm-4 col-md-3 pool-code pull-right">
+                           <img class="pull-right" src="img/pool-code.png" alt="">
+                       </div>
+                       <div class="clearfix visible-xs visible-sm"></div>
+                       <div class="col-xs-24 col-md-13 col-lg-14 product-name">
+                           <h1>36 Inch Auburn Residential Aluminum Fence</h1>
+                       </div>
+                   </header><!-- /. sub roduct header -->
+                   
+                   <!-- product accodrion -->
+                   <div class="product-accordion">
+                       <h4>Details</h4>
+                       <div class="details">
+                           <table class="table">
+                               <tr>
+                                   <td>Height</td>
+                                   <td>36 inches</td>
+                               </tr>
+                               <tr>
+                                   <td>Width</td>
+                                   <td>72 inches</td>
+                               </tr>
+                               <tr>
+                                   <td>Number of Horizontal Rails</td>
+                                   <td>2 Rail or 3 Rail</td>
+                               </tr>
+                               <tr>
+                                   <td>Horizontal Rail Size</td>
+                                   <td>1 inch Square</td>
+                               </tr>
+                               <tr>
+                                   <td>Vertical Picket Size</td>
+                                   <td>5/8 Inch Square</td>
+                               </tr>
+                               <tr>
+                                   <td>Vertical Picket Spacing</td>
+                                   <td>3 7/8 Inches</td>
+                               </tr>
+                               <tr>
+                                   <td>Rackability</td>
+                                   <td>9 Inches Over 6 Foot Span</td>
+                               </tr>
+                               <tr>
+                                   <td>Warranty</td>
+                                   <td>Lifetime Warranty</td>
+                               </tr>
+                           </table>
+                       </div>
+                       <h4>Available Colors</h4>
+                       <div class="colors">
+                           <div class="thumbnail">
+                               <span class="thumbnail-color" style="background-color: #242021"></span>
+                               <div class="caption">Black</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color white-color" style="background-color: #ffffff"></span>
+                               <div class="caption">White</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color gray-color" style="background-color: #bcbcbc"></span>
+                               <div class="caption">Gray</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color florida-bronze-color" style="background-color: #4d524b"></span>
+                               <div class="caption">Florida Bronze</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color light-bronze-color" style="background-color: #91866a"></span>
+                               <div class="caption">Light Bronze</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color green-color" style="background-color: #395a45"></span>
+                               <div class="caption">Green</div>
+                           </div>
+                           <div class="thumbnail">
+                               <span class="thumbnail-color belge-color" style="background-color: #dfd6b5"></span>
+                               <div class="caption">Belge</div>
+                           </div>
+                       </div>
+                       <h4>Pricing</h4>
+                       <div class="pricing">
+                           <table class="table">
+                               <tr>
+                                   <td>6' Wide Panel</td>
+                                   <td>$47.57 (2 Rail) </td>
+                               </tr>
+                               <tr>
+                                   <td>6' Wide Panel</td>
+                                   <td>$54.81 (3 Rail)</td>
+                               </tr>
+                               <tr>
+                                   <td>2" x 2" x .062" Lines, Ends, and Corner Posts</td>
+                                   <td>$14.50</td>
+                               </tr>
+                               <tr>
+                                   <td>2.5" x 2.5" Upgraded Lines, Ends, Corner Posts</td>
+                                   <td>$24.92</td>
+                               </tr>
+                               <tr>
+                                   <td>2" x 2" x .125" Gate Posts</td>
+                                   <td>$26.73</td>
+                               </tr>
+                               <tr>
+                                   <td>3" x 3" x .125" Upgraded Gate Posts</td>
+                                   <td>$48.02</td>
+                               </tr>
+                               <tr>
+                                   <td>4" x 4" x .125" Upgraded Gate Posts</td>
+                                   <td>$55.72</td>
+                               </tr>
+                               <tr>
+                                   <td>6" x 6" x .125" Upgraded Gate Posts</td>
+                                   <td>$111.89</td>
+                               </tr>
+                           </table>
+                       </div>
+                       <h4>Available Gates</h4>
+                       <div class="gates">
+                           <div class="gate-item clearfix">
+                               <div class="col-md-9 col-lg-8 gate-photo">
+                                   <img src="img/available-gate.jpg" alt="">
+                               </div>
+                               <div class="col-md-15 col-lg-16 gate-description">
+                                   <h4>36 Inch Auburn Residential Rainbow Arched Double Gate</h4>
+                                   <p>
+                                       36" High x 72" Wide = $547.22<br>
+                                       36" High x 84" Wide = $547.22<br>
+                                       36" High x 96" Wide = $569.87<br>
+                                       36" High x 120" Wide = $592.52<br>
+                                       36" High x 144" Wide = $633.29<br>
+                                  </p>
+                                  <p>
+                                      *Pricing includes gravity latch, self closing hinges & drop rod (Upgraded hardware available)
+                                  </p>
+                               </div>
+                           </div>
+                       </div>
+                       <h4>Photo Gallery</h4>
+                       <div class="gallery">
+                           <a href="img/slide1.jpg" rel="shadowbox"><img src="img/slide1.jpg" alt=""/></a>
+                           <a href="img/slide2.jpg" rel="shadowbox"><img src="img/slide2.jpg" alt=""/></a>
+                           <a href="img/slide3.jpg" rel="shadowbox"><img src="img/slide3.jpg" alt=""/></a>
+                           <a href="img/slide4.jpg" rel="shadowbox"><img src="img/slide4.jpg" alt=""/></a>
+                           <a href="img/slide1.jpg" rel="shadowbox"><img src="img/slide1.jpg" alt=""/></a>
+                           <a href="img/slide2.jpg" rel="shadowbox"><img src="img/slide2.jpg" alt=""/></a>
+                           <a href="img/slide3.jpg" rel="shadowbox"><img src="img/slide3.jpg" alt=""/></a>
+                           <a href="img/slide4.jpg" rel="shadowbox"><img src="img/slide4.jpg" alt=""/></a>
+                       </div>
+                   </div><!-- /. product accordion -->
+                    
+                </article><!-- /. decription -->
+                
+            </div><!-- /. left column -->
+            
+            <!-- right-column -->
+            <aside class="col-md-7 right-column">
+               
+               <!-- menu -->
+               <div class="panel accordion-panel">
+                   <div class="panel-heading">Aluminum Fences</div>
+                   <ul class="panel-body panel-accordion">
+                      
+                       <li class="item-header">Residential <span class="caret"></span></li>
+                       <li>
+                           <ul class="panel-accordion">
+                               <li class="item-header">Residential <span class="caret"></span></li>
+                               <li><a href="#" class="subitem">Some link</a></li>
+                           </ul>
+                       </li>
+                       
+                       <li class="item-header">Commercial <span class="caret"></span></li>
+                       <li><a href="#" class="subitem">Some link</a></li>
+                       
+                       <li class="item-header">Concealed Fastener <span class="caret"></span></li>
+                       <li><a href="#" class="subitem">Some link</a></li>
+                       
+                       <li class="item-header">Post & Rail <span class="caret"></span></li>
+                       <li><a href="#" class="subitem">Some link</a></li>
+                       
+                       <li class="item-header">Accessories <span class="caret"></span></li>
+<!--                       <li><a href="#" class="subitem">Some link</a></li>-->
+                      <li>
+                           <ul class="panel-accordion">
+                               <li class="item-header">Residential <span class="caret"></span></li>
+                               <li>
+                                   <ul class="panel-accordion">
+                                       <li class="item-header">Residential <span class="caret"></span></li>
+                                       <li><a href="#" class="subitem">Some link</a></li>
+                                   </ul>
+                               </li>
+                           </ul>
+                       </li>
+                       
+                   </ul>
+               </div>
+               <!-- /. menu -->
+               
+               <!-- Quick Ship -->
+                <div class="panel about-aside-panel">
+                  <article class="panel-body">
+                    <header><h1>Quick Ship</h1></header>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                         euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                    </p>
+                  </article>
+                  <div class="panel-footer">
+                      <a href="#" class="btn btn-browse">Get Started <span class="link-arrow"></span></a>
+                  </div>
+                </div><!-- /. Quick Ship -->
+                
+                <!-- Pricing Sheets -->
+                <div class="panel price-sheets-panel">
+                    <div class="panel-heading">
+                        <h2>Pricing Sheets</h2>
+                    </div>
+                    <div class="panel-body">
+                        <a href="#" class="product-cost">
+                            <img src="img/pdf-icon.png" alt="">
+                            <span class="product-name">Residential</span>
+                        </a>
+                        <a href="#" class="product-cost">
+                            <img src="img/pdf-icon.png" alt="">
+                            <span class="product-name">Commercial</span>
+                        </a>
+                        <a href="#" class="product-cost">
+                            <img src="img/pdf-icon.png" alt="">
+                            <span class="product-name">Other Sheets</span>
+                        </a>
+                    </div>
+                </div><!-- /. Pricing Sheets -->
+                
+            </aside><!-- /. right column -->
+            
+            <div class="clearfix"></div>
+
+            <!-- footer -->
+            <footer class="row">
+
+                <!-- navigation -->
+                <!-- DESKTOP,LAPTOP,TABLET VERSION -->
+
+                <nav class="hidden-xs nav navbar-inverse" id="footer-nav-laptop">
+
+                    <!-- nav links -->
+                    <div class="col-sm-15 col-md-17">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /. nav links -->
+
+                    <!-- search form -->
+                    <div class="form-search col-sm-9 col-md-7 pull-right">
+                        <form class="form" action="" name="search" method="get">
+                            <div class="form-group">
+                                <label class="sr-only" for="search-input-down">Search Our Site</label>
+                                <div class="input-group">
+                        <span class="input-group-addon">
+                            <img src="img/header-search.png" alt="search icon">
+                        </span>
+                                    <input type="search" id="search-input-down" class="form-control" placeholder="Search Our Site">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-search text-uppercase">
+                                go
+                            </button>
+                        </span>
+                                </div><!--/. input group -->
+                            </div>
+                        </form>
+                    </div><!--/. search form -->
+                </nav>
+                <!--/. DESKTOP,LAPTOP,TABLET VERSION -->
+                <!--/. navigation -->
+
+                <!-- navigation -->
+                <!-- MOBILE VERSION -->
+                <nav class="row visible-xs nav navbar-inverse" id="footer-nav-mobile">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse-nav-links-footer">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">Menu</a>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="collapse-nav-links-footer">
+
+                        <ul class="nav navbar-nav">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Resources</a></li>
+                            <li><a href="#">Pool Code</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </nav>
+                <!--/. MOBILE VERSION -->
+                <!--/. navigation -->
+
+                <div class="footer-container">
+
+                    <div class="hidden-xs col-sm-17 col-md-10 col-lg-11 policy">
+                        <a href="#">Shipping Policy</a>
+                        <a href="#">Return Policy</a>
+                        <a href="#">Cancellation Policy</a>
+                        <a href="#">Privacy Policy</a>
+                    </div>
+
+                    <!-- mobile -->
+                    <small class="visible-xs-block text-center">
+                        &copy; Copyright 2014 Wholesale Aluminum Fence. All Rights Reserved
+                    </small>
+                    <!-- /. mobile -->
+
+                    <!-- /. desktop+ -->
+                    <div class="cards col-md-4 col-lg-push-1"><img src="img/cards.jpg" alt=""></div>
+                    <div class="clearfix visible-sm"></div>
+
+                    <small class="hidden-xs col-sm-24 col-md-8">
+                        &copy; Copyright 2014 Wholesale Aluminum Fence. All Rights Reserved
+                    </small>
+                    <!-- /. desktop+ -->
+                </div>
+
+            </footer><!-- /. footer -->
+
+        </div>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <script src="js/shadowbox.js"></script>
+        <script src="js/accordion.min.js"></script>
+        <script>
+            //initializing the shadowbox
+            Shadowbox.init({
+                counterType: "default"
+            });
+
+            $(".panel-accordion" ).accordion({
+                collapseAll: true,
+                header: '.item-header'
+            });
+            
+            $(".product-accordion").accordion({
+                header: 'h4',
+                collapseAll: true,
+                slideDuration: 150,
+                active: 1
+            });
+        </script>
+    </body>
+</html>
